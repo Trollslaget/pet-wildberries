@@ -1,2 +1,2 @@
 # pet-wildberries
-you can see the site here https://fatpotato69.github.io/pet-wildberries/
+pet project with server data and filtering logic
